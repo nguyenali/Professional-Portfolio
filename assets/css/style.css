@@ -71,6 +71,7 @@ body {
 /*about me style start*/
   .about-me {
     text-align: center;
+    background-color: #024e76;
   }
   
   .about-me sh2 {
@@ -90,3 +91,29 @@ body {
     font-size: 20px;
     margin: 0 auto;
   }
+/*about me style ends*/
+
+/*work style starts*/
+.work { 
+    text-align: left;
+    background: #024e76;
+  }
+
+  .work h2 {
+    font-size: 55px;
+    color: #000000;
+    margin-bottom: 35px;
+    padding: 0 100px 20px 100px;
+    border-bottom: 3px solid;
+    border-color: #39a6b2;
+  }
+
+  /*work style ends*/
+
+/*contact me starts*/
+
+
+
+
+/*c
+  
