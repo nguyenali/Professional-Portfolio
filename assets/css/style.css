@@ -58,11 +58,35 @@ body {
 
 /*Hero Style Start*/
 
-  /* Hero Style Start */
+  
 .hero {
     background-image: url("../images/hero-bg.jpg");
-    height: 600px;
+    height: 200px;
     background-size: cover;
     background-position: center;
+    position: relative;  
   }
-  /* Hero Style End */
+  /* Hero Style End * position;relative might not be right*/
+
+/*about me style start*/
+  .about-me {
+    text-align: center;
+  }
+  
+  .about-me sh2 {
+    font-size: 55px;
+    color: #024e76;
+    margin-bottom: 35px;
+    padding: 0 100px 20px 100px;
+    border-bottom: 3px solid;
+    border-color: #fce138;
+    display: inline-block;
+  }
+
+  .about-me p {
+    line-height: 1.5;
+    color: #000000;
+    width: 80%;
+    font-size: 20px;
+    margin: 0 auto;
+  }
