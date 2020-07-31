@@ -110,10 +110,17 @@ body {
 
   /*work style ends*/
 
-/*contact me starts*/
+/*contact me style starts*/
+  .contact-information {
+      background-color: #024e76;
+      text-align: left;
+  }
+
+  .contact-information h2{
+      font-size: 35px;
+  }
 
 
 
-
-/*c
+/*contact me style ends*/
   
