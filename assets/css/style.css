@@ -32,7 +32,7 @@ body {
 
   header a {
     text-decoration: underline;
-    color: #000000;
+    color: bisque;
   }
 
   header nav {
@@ -66,11 +66,13 @@ body {
 
   
 .hero {
-    background-image: url("../images/hero-bg.jpg");
-    height: 200px;
+    background-image: url("../images/FullSizeRender.jpg");
+    height: 320px;
+    width: 100%;
     background-size: cover;
     background-position: center;
-    position: relative;  
+    position: relative; 
+    color: bisque;
   }
   /* Hero Style End * position;relative might not be right*/
 
@@ -127,14 +129,13 @@ body {
   }
 
   .contact-information h2{
-    font-size: 35px;
+    font-size: 55px;
     color: #000000;
     margin-bottom: 35px;
     padding: 0 100px 20px 100px;
     border-bottom: 3px solid;
     border-color: #13bb59;
   }
-
 
 
 /*contact me style ends*/
