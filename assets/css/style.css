@@ -76,16 +76,16 @@ body {
 /*about me style start*/
   .about-me {
     text-align: center;
-    background-color: #024e76;
+    background-color: bisque;
   }
   
-  .about-me sh2 {
+  .about-me h2 {
     font-size: 55px;
-    color: #024e76;
+    color: #000000;
     margin-bottom: 35px;
     padding: 0 100px 20px 100px;
     border-bottom: 3px solid;
-    border-color: #fce138;
+    border-color: #13bb59;
     display: inline-block;
   }
 
@@ -93,7 +93,7 @@ body {
     line-height: 1.5;
     color: #000000;
     width: 80%;
-    font-size: 20px;
+    font-size: 25px;
     margin: 0 auto;
   }
 /*about me style ends*/
@@ -101,7 +101,7 @@ body {
 /*work style starts*/
 .work { 
     text-align: left;
-    background: #024e76;
+    background: bisque;
   }
 
   .work h2 {
@@ -110,14 +110,18 @@ body {
     margin-bottom: 35px;
     padding: 0 100px 20px 100px;
     border-bottom: 3px solid;
-    border-color: #39a6b2;
+    border-color: #13bb59;
+  }
+
+  .work p {
+    font-size: 25px;
   }
 
   /*work style ends*/
 
 /*contact me style starts*/
   .contact-information {
-      background-color: #024e76;
+      background-color:  bisque;
       text-align: left;
   }
 
