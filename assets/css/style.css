@@ -178,35 +178,6 @@ body {
     font-size: 20px;
   }
 
-  footer h2, footer div {
-    text-align: center;
-    width: 100%;
-  }
-}
-
-.hero-cta, .hero-form {
-  width: 100%;
-}
-
-.hero-cta {
-  text-align: center;
-}
-
-.section-title {
-  width: 80%;
-}
-
-.trainer {
-  flex: 0 70%;
-}
-
-.contact-info iframe{
-  flex: 1 100%;
-}
-
-@media screen and (max-width: 768px) {
-  section {
-    padding: 30px 15px;
   }
 }
 
@@ -216,18 +187,18 @@ body {
     padding: 30px 15px;
   }
 
-  .step h3 {
+  .work h3 {
     flex: 1 100%;
     text-align: center;
   }
 
-  .step-info {
+  .work {
     flex: 2 100%;
     text-align: center;
     justify-content: center;
   }
 
-  .step-img {
+  .projects {
     flex: 0 32%;
     margin-right: 0;
     margin-top: 15px;
@@ -242,19 +213,15 @@ body {
 
 @media screen and (max-width: 575px) {
 
-  .hero-form button {
-    width: 100%;
-  }
-
   .section-title {
     width: 95%;
   }
 
-  .intro p {
+  .about me p {
     width: 100%;
   }
 
-  .trainer {
+  .contact-information {
     flex: 0 100%;
   }
 
