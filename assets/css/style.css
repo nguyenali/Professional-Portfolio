@@ -81,12 +81,12 @@ body {
   /* Hero Style End * position;relative might not be right*/
 
 /*about me style start*/
-  .Background {
+  .about-me {
     text-align: center;
     background-color: bisque;
   }
   
-  .Background h2 {
+  .about-me h2 {
     font-size: 55px;
     color: #000000;
     margin-bottom: 35px;
@@ -96,7 +96,7 @@ body {
     display: inline-block;
   }
 
-  .Background p {
+  .about-me p {
     line-height: 1.5;
     color: #000000;
     width: 80%;
@@ -127,10 +127,11 @@ body {
   /*work style ends*/
 
 /*contact me style starts*/
+  
   .contact-information {
-      background-color:  bisque;
-      text-align: left;
-      
+    background-color:  bisque;
+    text-align: left;
+  
   }
 
   .contact-information h2{
@@ -140,36 +141,15 @@ body {
     padding: 0 100px 20px 100px;
     border-bottom: 3px solid;
     border-color: #13bb59;
-  
+
   }
-  
-  
+
+  .contact-information nav ul li {
+    display: inline;
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 25px;
 
   
 /*contact me style ends*/
   
-
-/* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER START*/
-@media screen and (max-width: 980px) {
-  header h1 a {
-    /* this will be applied on any screen smaller than 980px */
-    color: tomato;
-  }
-}
-
-/* MEDIA QUERY FOR TABLETS AND SMALLER */
-@media screen and (max-width: 768px) {
-  header h1 {
-    /* this will be applied on any screen between 768px and 575px */
-    font-size: 80px;
-  }
-}
-
-/* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
-@media screen and (max-width: 575px) {
-  header h1 {
-    /* this will be applied on any screen smaller than 575px */
-    font-size: 100px;
-  }
-}
-/*MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER START*/
