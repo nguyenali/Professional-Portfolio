@@ -7,7 +7,8 @@ A website that serves as my portfolio and showcases my projects I am currently w
 * CSS
 
 ## Website
-https://nguyenali.github.io/run-buddy/
+https://nguyenali.github.io/Professional-Portfolio/
+
 
 ## Contribution
 Made with ❤️ Ali Nguyen
